@@ -1,0 +1,4 @@
+ultralytics (for YOLOv8)
+opencv-python
+onnxruntime
+ByteTrack

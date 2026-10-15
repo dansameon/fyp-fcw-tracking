@@ -1,0 +1,12 @@
+﻿# Datasets and runs
+data/
+outputs/
+runs/
+*.pt
+
+# Python caches and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
